@@ -1,6 +1,4 @@
-# Computacao-Grafica-Opencv - Projeto Final
-
-Desenvolvedor: Ketherly
+# Computacao-Grafica-Opencv
 
 O programa realiza a detecção de cadeiras de rodas que pode ser vir por exemplo pra avisar uma empresa ou até mesmo o porteiro de um predio que um cadeirante esta chegando, permitindo que possa ser remanejado, com mais rapidez, alguém para ajuda-lo.
 
